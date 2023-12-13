@@ -1,2 +1,2 @@
 # flipkart_clone
-This is Aarzoo
+This is a UI design of flipkart clone
